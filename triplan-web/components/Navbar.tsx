@@ -17,7 +17,7 @@ const Navbar = () => {
 						});
 					}}
 				>
-					Main Menu
+					BECOME A PREMIUM USER!!!
 				</button>
 				<button className=''>Make a Plan</button>
 				<button className=''>User Profile</button>
