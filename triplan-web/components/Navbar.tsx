@@ -17,7 +17,7 @@ const Navbar = () => {
 						});
 					}}
 				>
-					BECOME A PREMIUM USER!!!
+					BECOME A PREMIUM USER!!! (I'm in your walls)
 				</button>
 				<button className=''>Make a Plan</button>
 				<button className=''>User Profile</button>
